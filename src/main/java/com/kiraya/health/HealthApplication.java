@@ -16,7 +16,7 @@ public class HealthApplication {
 	}
 
 
-	@RequestMapping("/health")
+	@RequestMapping("/health17")
 	public String greeting() {
 		return "I am alive";
 	}
